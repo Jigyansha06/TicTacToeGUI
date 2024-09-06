@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce06027-c651-4076-a4be-0cef9b0c8052" name="Changes" comment="&quot;Initial commit for TicTacToeGUI&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4ce06027-c651-4076-a4be-0cef9b0c8052" name="Changes" comment="&quot;Initial commit for TicTacToeGUI&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +21,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jigyansha06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jigyansha06/TicTacToeGUI.git",
+    "accountId": "8466e764-cc2b-4852-8262-b872d8f29b4a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -75,6 +85,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
     <MESSAGE value="&quot;Initial commit for TicTacToeGUI&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial commit for TicTacToeGUI&quot;" />
   </component>
