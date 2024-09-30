@@ -17,3 +17,6 @@ Tic Tac Toe GUI is a simple Java application using Swing to provide a graphical 
    Open your terminal or command prompt and run the following command to clone the repository:
    ```bash
    git clone https://github.com/Jigyansha06/TicTacToeGUI.git
+
+   Contact
+   Mail: mohapatrajigyansha42@gmail.com
